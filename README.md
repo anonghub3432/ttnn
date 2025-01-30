@@ -42,11 +42,11 @@ SHAP (SHapley Additive exPlanations) visualizations provide a comparison between
 If you use this code or find it useful, please cite our work:
 
 > **Training Transparent Neural Networks with Learned Interpretable Features**\
-> Anonymous Authors (ICML 2025 Submission)
+> Anonymous Authors 
 
 ## Contact
 
-For any questions or collaborations, please reach out to the authors.
+For any questions, please reach out to the authors.
 
 
 
