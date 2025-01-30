@@ -46,8 +46,7 @@ If you use this code or find it useful, please cite our work:
 
 ## Contact
 
-For any questions or collaborations, please open an issue or reach out to the authors. Repository will be updated as additional results become available.
-
+For any questions or collaborations, please reach out to the authors.
 
 
 
